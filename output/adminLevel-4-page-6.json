@@ -1,0 +1,4880 @@
+{
+  "items": [
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Instituto de Estudios Europeos",
+        "code": "U01900135",
+        "name": "Instituto de Estudios Europeos"
+      },
+      "hash": "c827f2efbcb4a73c3f304767096982f3a00f61d1",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Unidad Administrativa Territorial de Soria",
+        "code": "U01900132",
+        "name": "Unidad Administrativa Territoria de Soria"
+      },
+      "hash": "c3b6e2ff01cd0c4bf93961fb5945dfa8dde44df3",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Unidad Administrativa Territorial de Segovia",
+        "code": "U01900130",
+        "name": "Unidad Administrativa Territorial de Segovia"
+      },
+      "hash": "9e3af4aa75cf0bff6545b5d9185138479221dc26",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Unidad de Gestión Integrada de Palencia",
+        "code": "U01900128",
+        "name": "Unidad de Gestión Integrada de Palencia"
+      },
+      "hash": "bf2898fc571b3885cba89f0dc2f28ebda1e2f239",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Unidad Técnica de Arquitectura",
+        "code": "U01900127",
+        "name": "Unidad Técnica de Arquitectura"
+      },
+      "hash": "330ea446b22c0979de810dc439f2e1efb7cfbc4d",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Servicio de Tecnologías de la Información y Comunicaciones",
+        "code": "U01900125",
+        "name": "Servicio de Tecnologías de la Información y Comunicaciones"
+      },
+      "hash": "650857068441eccb59a307b8fdcae792bc279cd5",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Servicio de Mantenimiento",
+        "code": "U01900119",
+        "name": "Servicio de Mantenimiento"
+      },
+      "hash": "4e9ee716ec27ed13ef14834f6263eff93ccf3390",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U01900118",
+        "name": "Servicio de Gestión Económica"
+      },
+      "hash": "9bf678ee77728a11ddaea818a191dc5edc4cf13c",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Servicio de Apoyo a la Investigación",
+        "code": "U01900115",
+        "name": "Servicio de Apoyo a la Investigación"
+      },
+      "hash": "7aee98440d30a21658d7df413f0a60bc7a25ea9d",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Servicio de Deportes",
+        "code": "U01900114",
+        "name": "Servicio de Deportes"
+      },
+      "hash": "872d09fd9bc174383f00ac27f161aa85992e257e",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Ediciones Universidad de Valladolid",
+        "code": "U01900107",
+        "name": "Ediciones Universidad de Valladolid (Secretariado de Publicaciones)"
+      },
+      "hash": "4bfb67b296ae0829aa2ba36c9ee6991694098d5e",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Facultad de Medicina",
+        "code": "U01900028",
+        "name": "Facultad de Medicina"
+      },
+      "hash": "85118e19d741420b2fd3ac12cd4b3121ed1477f3",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Facultad de Filosofía y Letras",
+        "code": "U01900027",
+        "name": "Facultad de Filosofía y Letras"
+      },
+      "hash": "011d943bbe01c8b8e7610db81006d112085eca21",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Facultad de Educación y Trabajo Social",
+        "code": "U01900026",
+        "name": "Facultad de Educación y Trabajo Social"
+      },
+      "hash": "82a5729744d90b64e3a37424b2f54c41b974a4e5",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Facultad de Derecho",
+        "code": "U01900025",
+        "name": "Facultad de Derecho"
+      },
+      "hash": "9df6a69ffd3ce73b8c5a37cf9937f69ca1c4a090",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Facultad de Ciencias Económicas y Empresariales",
+        "code": "U01900024",
+        "name": "Facultad de Ciencias Económicas y Empresariales"
+      },
+      "hash": "a00d56812b91bb4d38b0c19c4ccfffd90419dbaa",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Facultad de Ciencias",
+        "code": "U01900023",
+        "name": "Facultad de Ciencias"
+      },
+      "hash": "efd3c5f71e978ccbbc60d74b90219684f83d25a1",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Facultad de Enfermería",
+        "code": "U01900021",
+        "name": "Facultad de Enfermería de Valladolid"
+      },
+      "hash": "ad72eadbe4a4b2184b207c62c4d0e807aadc4fc8",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Escuela Técnica Superior de Ingenieros de Telecomunicación",
+        "code": "U01900020",
+        "name": "Escuela Técnica Superior de Ingenieros de Telecomunicación"
+      },
+      "hash": "b65ea35d1f504736a0b064455f2b0b92bc06f6db",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Escuela de Ingeniería Informática de Valladolid",
+        "code": "U01900019",
+        "name": "Escuela de Ingeniería Informática de Valladolid"
+      },
+      "hash": "11a14bd1ef6078b05f957e339aa5b0debf19592d",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Escuela Técnica Superior de Arquitectura",
+        "code": "U01900018",
+        "name": "Escuela Técnica Superior de Arquitectura"
+      },
+      "hash": "226f508fd4514a255f6449ff5a00dc27ea302dc5",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Escuela de Ingenierías Industriales",
+        "code": "U01900017",
+        "name": "Escuela de Ingenierías Industriales"
+      },
+      "hash": "52eda1343556300c6849f797ff3b16b16739470d",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Consejo Social",
+        "code": "U01900002",
+        "name": "Consejo Social"
+      },
+      "hash": "41b3dcc7478c7b17e1dbadeed237ef860350e13f",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Universidad de Castilla-La Mancha",
+        "code": "U03400001",
+        "name": "Universidad de Castilla-La Mancha"
+      },
+      "og": {
+        "alias": "Universidad de Castilla-La Mancha",
+        "identifier": "Q1368009E",
+        "code": "U03400001",
+        "name": "Universidad de Castilla-La Mancha"
+      },
+      "ut": {
+        "alias": "Universidad de Castilla-La Mancha",
+        "code": "U03400001",
+        "name": "Universidad de Castilla-La Mancha"
+      },
+      "hash": "5bc4cb1caf3aff5342372b97f28a42618ba7c1d5",
+      "active": true,
+      "administration": {
+        "code": "U03400001",
+        "name": "Universidad de Castilla-La Mancha"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "hash": "0e9a975449556b6cea529913cd88da844dce8547",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Centro Buendía",
+        "code": "U01900105",
+        "name": "Centro Buendia"
+      },
+      "hash": "808812c9d0c790fd1de0a64435fac986e915f16c",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Contabilidad y Presupuestos",
+        "code": "U01900112",
+        "name": "Servicio de Contabilidad y Presupuestos"
+      },
+      "og": {
+        "alias": "Universidad de Valladolid",
+        "identifier": "Q4718001C",
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      },
+      "ut": {
+        "alias": "Biblioteca Universitaria",
+        "code": "U01900104",
+        "name": "Biblioteca Universitaria"
+      },
+      "hash": "ce2ab0d37a749cadc04844acea0a7cdf82e13323",
+      "active": true,
+      "administration": {
+        "code": "U01900001",
+        "name": "Universidad de Valladolid"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. INGENIERÍA DE COMUNICACIONES",
+        "code": "GE0001650",
+        "name": "Dpto. Ingeniería de Comunicaciones"
+      },
+      "hash": "77f9f4e1003d458c555a31c3d5fb4de3af10d763",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "SERVICIO DE ACTIVIDADES FISICO DEPORTIVAS",
+        "code": "U01600045",
+        "name": "Servicio de Actividades Fisico Deportivas"
+      },
+      "hash": "bf8a3749dac0af1dfc1924e1767848fed62c47c7",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "CENTRO DE ORIENTACIÓN E INFORMACIÓN DE EMPLEO",
+        "code": "U01600044",
+        "name": "Centro de Orientación e Información de Empleo"
+      },
+      "hash": "c3e140f1ef382c248f9025aee20fcdfff5d6d2b6",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "SERVICIO DE PUBLICACIONES",
+        "code": "U01600042",
+        "name": "Servicio de Publicaciones"
+      },
+      "hash": "368a4ca09ede1a71148858031ce9db7b9ded9fdd",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "SERVICIO DE INFRAESTRUCTURAS",
+        "code": "U01600039",
+        "name": "Servicio de Infraestructuras"
+      },
+      "hash": "7d12bef3f0799e6d813882bde1e6e3d184428974",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "SERVICIO DE IINFORMÁTICA",
+        "code": "U01600038",
+        "name": "Servicio de Informática"
+      },
+      "hash": "e0da3ab137fde1bd1d068fadb9911f3e22e691ff",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "SERVICIO DE GESTIÓN ECONÓMICA, PATRIMONIO Y CONTRATACIÓN",
+        "code": "U01600037",
+        "name": "Servicio de Gestión Económica, Patrimonio y Contratación"
+      },
+      "hash": "430e234621a25c3fd01ac78a6e7b485f4ea6eeb9",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "OFICINA DE TRANSFERENCIA DE LOS RESULTADOS DE LA INVESTIGACIÓN",
+        "code": "U01600032",
+        "name": "Oficina de Transferencia de los Resultados de la Investigación"
+      },
+      "hash": "dd2a7ddc28d3ad7a92f5b74ce16a356b60f9f7c0",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "BIBLIOTECA UNIVERSITARIA DE LA UC",
+        "code": "U01600031",
+        "name": "Biblioteca Universitaria de la Uc"
+      },
+      "hash": "f5b3124c11377fe3a63c19c8f3626b3079ece199",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "FACULTAD DE CIENCIAS ECONÓMICAS Y EMPRESARIALES",
+        "code": "U01600028",
+        "name": "Facultad de Ciencias Económicas y Empresariales"
+      },
+      "hash": "73d8901b14f9c18d2f2af8c4e7aef51781922831",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "FACULTAD DE MEDICINA",
+        "code": "U01600027",
+        "name": "Facultad de Medicina"
+      },
+      "hash": "b09e8a1af84bd94af3e03d52321b31ba56d3a345",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "FACULTAD DE FILOSOFÍA Y LETRAS",
+        "code": "U01600026",
+        "name": "Facultad de Filosofía y Letras"
+      },
+      "hash": "6f6c077deace3099df1842cf7d6924e9fa66cd76",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "FACULTAD DE EDUCACIÓN",
+        "code": "U01600025",
+        "name": "Facultad de Educación"
+      },
+      "hash": "6af2cc8a85ade28ab1c3790577261055fe03f576",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "FACULTAD DE DERECHO",
+        "code": "U01600024",
+        "name": "Facultad de Derecho"
+      },
+      "hash": "50c0a937ff4df5a1358595ef068c321cc00db27d",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "FACULTAD DE CIENCIAS",
+        "code": "U01600023",
+        "name": "Facultad de Ciencias"
+      },
+      "hash": "8645ac656233072cf283e297593e906de3f99c0c",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "Facultad de Enfermería",
+        "code": "U01600022",
+        "name": "Facultad de Enfermería"
+      },
+      "hash": "b7c1aeb71ba77eb9eef1cfe6747be8bb1e3b560e",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "ESCUELA TÉCNICA SUPERIOR DE NAÚTICA",
+        "code": "U01600021",
+        "name": "Escuela Técnica Superior de Naútica"
+      },
+      "hash": "3645f3f2ebf13b65fc1cd6176b66299ddf612212",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "ESCUELA POLITÉCNICA DE INGENIERÍA DE MINAS Y ENERGÍA",
+        "code": "U01600020",
+        "name": "Escuela Politécnica de Ingeniería de Minas y Energía"
+      },
+      "hash": "9af6f24f67dcb8095dae98427c0cfc90be6ccd0e",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "ESCUELA DE DOCTORADO DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600019",
+        "name": "Escuela de Doctorado de la Universidad de Cantabria"
+      },
+      "hash": "9c1f5a02093b88af2c8fe8a757d808b0c4be43f5",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "E.T.S. DE INGENIEROS INDUSTRIALES Y DE TELECOMUNICACIÓN",
+        "code": "U01600018",
+        "name": "E.T.S. de Ingenieros Industriales y de Telecomunicación"
+      },
+      "hash": "d1d8c72a47bc2bb4a2dd0efdd5ab8a825de0aa91",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "E.T.S. DE INGENIEROS DE CAMINOS, CANALES Y PUERTOS",
+        "code": "U01600017",
+        "name": "E.T.S. de Ingenieros de Caminos, Canales y Puertos"
+      },
+      "hash": "adc2c27a8ffd8e5beeee5a1ec2ff600ca4934ecc",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "Vicerrectorado de Cultura, Proyección Social y Relaciones Institucionales",
+        "code": "U01600016",
+        "name": "Vicerrectorado de Cultura y Transferencia a la Sociedad"
+      },
+      "hash": "65460c2a6a642d8e74b9b066a41735bade76101f",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "Vicerrectorado de Estudiantes y Empleo",
+        "code": "U01600015",
+        "name": "Vicerrectorado de Estudiantes, Empleabilidad y Emprendimiento"
+      },
+      "hash": "0b3dbda1a614b4d9cf42a2553d5516c67e54e8db",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "Vicerrectorado de Campus, Sostenibilidad y Transformación Digital",
+        "code": "U01600014",
+        "name": "Vicerrectorado de Sostenibilidad y Espacios"
+      },
+      "hash": "1893756ab1a8693a2f8a523e5be5b847422cea7c",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "Vicerrectorado de Internacionalización y Compromiso Global",
+        "code": "U01600012",
+        "name": "Vicerrectorado de Relaciones y Estrategia Internacional"
+      },
+      "hash": "cb1c7395bed5c02974ad1415e63517e12e50adfc",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "Vicerrectorado de Ordenación Académica y Profesorado",
+        "code": "U01600011",
+        "name": "Vicerrectorado de Ordenación Académica"
+      },
+      "hash": "9f2266addc05c74b11810a8c7f9f99bc428ae878",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "Vicerrectorado de Investigación y Política Científica",
+        "code": "U01600010",
+        "name": "Vicerrectorado de Investigación, Transferencia y Doctorado"
+      },
+      "hash": "02385ac7da356fe6251f3118b50514a4c3010bda",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "SECRETARÍA GENERAL",
+        "code": "U01600008",
+        "name": "Secretaría General"
+      },
+      "hash": "ba8cc7145f67e13a7bf6a7b1d0905baa6b6aecf0",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "RECTORADO",
+        "code": "U01600007",
+        "name": "Rectorado"
+      },
+      "hash": "99a9c02e155676aec92550c51c166e8d5b5599ea",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DEFENSOR UNIVERSITARIO",
+        "code": "U01600005",
+        "name": "Defensor  Universitario"
+      },
+      "hash": "bb61c0c34dac4d934b47c365411a199630b9c59e",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "CONSEJO SOCIAL",
+        "code": "U01600002",
+        "name": "Consejo Social"
+      },
+      "hash": "9b694bf0a2ceb8f35b2f16d9e32cc3c84b664ab4",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "SANTANDER FINANCIAL INSTITUTE (SANFI)",
+        "code": "GE0001651",
+        "name": "Santander Financial Institute (Sanfi)"
+      },
+      "hash": "8e7e2da855eb1439e235a266927dba597f2f4e35",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "CURSOS DE VERANO DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "GE0000166",
+        "name": "Cursos de Verano de la Universidad de Cantabria"
+      },
+      "hash": "78972f3ce49191ad43ae736c1c26302e750c8008",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "SERVICIOS CIENTÍFICO TÉCNICOS DE INVESTIGACIÓN",
+        "code": "GE0000174",
+        "name": "Servicios Científico Técnicos de Investigación"
+      },
+      "hash": "078e6929800f80cbfbb34ee9069b076792253c88",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "ESCUELA INFANTIL DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "GE0000171",
+        "name": "Escuela Infantil de la Universidad de Cantabria"
+      },
+      "hash": "9e71a4bf41081c74a782aa721aa94e08df81848e",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "INSTITUTO DE HIDRÁULICA AMBIENTAL DE CANTABRIA",
+        "code": "GE0000155",
+        "name": "Instituto de Hidráulica Ambiental de Cantabria"
+      },
+      "hash": "7c6a18285d2a8a01a307d83e312b0ac47420d9aa",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "INSTITUTO DE BIOMEDICINA Y BIOTECNOLOGÍA DE CANTABRIA",
+        "code": "GE0000154",
+        "name": "Instituto de Biomedicina y Biotecnología de Cantabria"
+      },
+      "hash": "29da950ba9c3033f70e16194c2c40d60558eaf1c",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "INSTITUTO INTERNACIONAL DE INVESTIGACIONES PREHISTÓRICAS DE CANTABRIA",
+        "code": "GE0000153",
+        "name": "Instituto Internacional de Investigaciones Prehistóricas de Cantabria"
+      },
+      "hash": "dd88f0f21bb9ebf593417f5253be76dfaea83dd9",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "INSTITUTO DE FÍSICA DE CANTABRIA",
+        "code": "GE0000152",
+        "name": "Instituto de Física de Cantabria"
+      },
+      "hash": "848420621b04c54874c6677dbe13db849e0d2588",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. QUÍMICA E INGENIERÍA DE PROCESOS Y RECURSOS",
+        "code": "GE0000151",
+        "name": "Dpto. Química e Ingeniería de Procesos y Recursos"
+      },
+      "hash": "dafa6d921ec4ed168d5789e0f8990ef3f2982fe3",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. TECNOLOGÍA ELECTRÓNICA E INGENIERÍA DE SISTEMAS Y AUTOMÁTICA",
+        "code": "GE0000150",
+        "name": "Dpto. Tecnología Electrónica e Ingeniería de Sistemas y Automática"
+      },
+      "hash": "cb420976c444d8bdcf6808c25e017cc6fb0d889e",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. INGENIERÍA INFORMÁTICA Y ELECTRÓNICA",
+        "code": "GE0000136",
+        "name": "Dpto. Ingeniería Informática y Electrónica"
+      },
+      "hash": "3861215675980b1e5280e9054b985de9278c5a98",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. CIENCIAS DE LA TIERRA Y FÍSICA DE LA MATERIA CONDENSADA",
+        "code": "GE0000135",
+        "name": "Dpto. Ciencias de la Tierra y Física de la Materia Condensada"
+      },
+      "hash": "6259b089ac7547a65288bde64166af73473121c5",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. ENFERMERÍA",
+        "code": "GE0000134",
+        "name": "Dpto. Enfermería"
+      },
+      "hash": "61f9e33dd2b6c23a1b114c20ce50fc98e3645283",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. DERECHO PRIVADO",
+        "code": "GE0000133",
+        "name": "Dpto. Derecho Privado"
+      },
+      "hash": "7ca4adb7c08ac7a04b9a115d285677f599539023",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. CIENCIAS Y TÉCNICAS DE LA NAVEGACIÓN Y CONSTRUCCIÓN NAVAL",
+        "code": "GE0000132",
+        "name": "Dpto. Ciencias y Técnicas de la Navegación y Construcción Naval"
+      },
+      "hash": "9ce6703495ec6bf0913f60e763c69d95a7684b41",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. ADMINISTRACIÓN DE EMPRESAS",
+        "code": "GE0000131",
+        "name": "Dpto. Administración de Empresas"
+      },
+      "hash": "200044196f24b388b1ec9750ed78804f4afd215d",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. INGENIERÍA GEOGRÁFICA Y TÉCNICAS DE EXPRESIÓN GRÁFICA",
+        "code": "GE0000130",
+        "name": "Dpto. Ingeniería Geográfica y Técnicas de Expresión Gráfica"
+      },
+      "hash": "2359e340716dfc10259fec59b38439f31e6f7566",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. INGENIERÍA QUÍMICA Y BIOMOLECULAR",
+        "code": "GE0000129",
+        "name": "Dpto. Ingeniería Química y Biomolecular"
+      },
+      "hash": "2848a565c8c04fca59e328d00ef80d693f78135a",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. MEDICINA Y PSIQUIATRÍA",
+        "code": "GE0000128",
+        "name": "Dpto. Medicina y Psiquiatría"
+      },
+      "hash": "3bd9895ba808e5b47a77f6710cb980025ce2fe3a",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. MATEMÁTICAS, ESTADÍSTICA Y COMPUTACIÓN",
+        "code": "GE0000127",
+        "name": "Dpto. Matemáticas, Estadística y Computación"
+      },
+      "hash": "a1df30dc1887ff4801f9df96941f8f20ee808fd7",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. MATEMÁTICA APLICADA Y CIENCIAS DE LA COMPUTACIÓN",
+        "code": "GE0000126",
+        "name": "Dpto. Matemática Aplicada y Ciencias de la Computación"
+      },
+      "hash": "c9876aa96cd6bbad9b07da18196c49020d3ee62f",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. INGENIERÍA ELÉCTRICA Y ENERGÉTICA",
+        "code": "GE0000125",
+        "name": "Dpto. Ingeniería Eléctrica y Energética"
+      },
+      "hash": "631f67e1edcb3b25fdb881eda9d7ebc25bcefabc",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. HISTORIA MODERNA Y CONTEMPORÁNEA",
+        "code": "GE0000124",
+        "name": "Dpto. Historia Moderna y Contemporánea"
+      },
+      "hash": "2e14bd3d96320f9b567077ba3162a59c34e3bf23",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. GEOGRAFÍA, URBANISMO Y ORDENACIÓN DEL TERRITORIO",
+        "code": "GE0000123",
+        "name": "Dpto. Geografía, Urbanismo y Ordenación del Territorio"
+      },
+      "hash": "81f7bed273d76c6183f4c2fdb754b4112e57c7ba",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. FISIOLOGÍA Y FARMACOLOGÍA",
+        "code": "GE0000122",
+        "name": "Dpto. Fisiología y Farmacología"
+      },
+      "hash": "8a0cda6543aeda5678f4a4495b2476c8f22a80c8",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. FÍSICA MODERNA",
+        "code": "GE0000121",
+        "name": "Dpto. Física Moderna"
+      },
+      "hash": "86ac751861306266319c189f4612a3114122771b",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. FÍSICA APLICADA",
+        "code": "GE0000120",
+        "name": "Dpto. Física Aplicada"
+      },
+      "hash": "b4d7dccab9b8d98cff585b5694786ba03bd48252",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. FILOLOGÍA",
+        "code": "GE0000119",
+        "name": "Dpto. Filología"
+      },
+      "hash": "e01e64159a41d39bbf26644d04b73e20f90b43ae",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. EDUCACIÓN",
+        "code": "GE0000118",
+        "name": "Dpto. Educación"
+      },
+      "hash": "cc50861511d52603b2666643a649dce39289e0df",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. ECONOMÍA",
+        "code": "GE0000117",
+        "name": "Dpto. Economía"
+      },
+      "hash": "a93a9961dde4afc9fde39f2c5ee833fdfbad91f5",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. TRANSPORTES Y TECNOLOGÍA DE PROYECTOS Y PROCESOS",
+        "code": "GE0000116",
+        "name": "Dpto. Transportes y Tecnología de Proyectos y Procesos"
+      },
+      "hash": "ed5a946bd33d59b661c9545b34b9027663ac19ce",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. INGENIERÍA ESTRUCTURAL Y MECÁNICA",
+        "code": "GE0000115",
+        "name": "Dpto. Ingeniería Estructural y Mecánica"
+      },
+      "hash": "e24462a9b9c7651826ecc15b0b14ea3f74d98037",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. DERECHO PÚBLICO",
+        "code": "GE0000114",
+        "name": "Dpto. Derecho Público"
+      },
+      "hash": "f6eaf9181e10249e8ee6283793e6d3d65b6a4d20",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. CIENCIAS MÉDICAS Y QUIRÚRGICAS",
+        "code": "GE0000113",
+        "name": "Dpto. Ciencias Médicas y Quirúrgicas"
+      },
+      "hash": "4b5a82c61640b63ba34bd13548f1fa7badc78909",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. CIENCIAS Y TÉCNICAS DEL AGUA Y DEL MEDIO AMBIENTE",
+        "code": "GE0000112",
+        "name": "Dpto. Ciencias y Técnicas del Agua y del Medio Ambiente"
+      },
+      "hash": "44acd988a71d423246a5eb420bf1e346b25de6ec",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. CIENCIAS HISTÓRICAS",
+        "code": "GE0000111",
+        "name": "Dpto. Ciencias Históricas"
+      },
+      "hash": "d566a6f1d6a0b5055bfd5785bba410f414bece78",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. CIENCIAS E INGENIERÍA DEL TERRENO Y LOS MATERIALES",
+        "code": "GE0000110",
+        "name": "Dpto. Ciencias e Ingeniería del Terreno y los Materiales"
+      },
+      "hash": "ff93d4d6c563406864539cff57818cb64853397c",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. BIOLOGÍA MOLECULAR",
+        "code": "GE0000109",
+        "name": "Dpto. Biología Molecular"
+      },
+      "hash": "65611531ee120b8c348b472778ffc6850258d654",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": " SERVICIO DE CONTABILIDAD DE LA UNIVERSIDAD DE CANTABRIA",
+        "code": "U01600034",
+        "name": "Servicio de Contabilidad"
+      },
+      "og": {
+        "alias": "Universidad de Cantabria",
+        "identifier": "Q3918001C",
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      },
+      "ut": {
+        "alias": "DPTO. ANATOMÍA Y BIOLOGÍA CELULAR",
+        "code": "GE0000108",
+        "name": "Dpto. Anatomía y Biología Celular"
+      },
+      "hash": "9e682c6093f87121bf0301c384a6833abeffe01e",
+      "active": true,
+      "administration": {
+        "code": "U01600001",
+        "name": "Universidad de Cantabria"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100130",
+        "name": "Unidad Técnica de Calidad"
+      },
+      "ut": {
+        "alias": "Unidad Técnica de Calidad",
+        "code": "U00100130",
+        "name": "Unidad Técnica de Calidad"
+      },
+      "hash": "a1f922584033dc8d741aeb1bd2d92c09d3426f2a",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Biblioteca Universitaria",
+        "identifier": "Q0332001G",
+        "code": "U00100129",
+        "name": "Biblioteca Universitaria"
+      },
+      "ut": {
+        "alias": "Biblioteca Universitaria",
+        "code": "U00100129",
+        "name": "Biblioteca Universitaria"
+      },
+      "hash": "56fadd9794e53298c73de2af6fac61b3e8fa9917",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100128",
+        "name": "Servicios Técnicos de Investigación"
+      },
+      "ut": {
+        "alias": "Servicios Técnicos de Investigación",
+        "code": "U00100128",
+        "name": "Servicios Técnicos de Investigación"
+      },
+      "hash": "bfc7064f264eaf95131b290cb870588c292336af",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100127",
+        "name": "Servicio Jurídico"
+      },
+      "ut": {
+        "alias": "Servicio Jurídico",
+        "code": "U00100127",
+        "name": "Servicio Jurídico"
+      },
+      "hash": "3f26bf6cd20f1050d483f19756e5f4783f311ec2",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100126",
+        "name": "Servicio de Selección de Personal"
+      },
+      "ut": {
+        "alias": "Servicio de Selección de Personal",
+        "code": "U00100126",
+        "name": "Servicio de Selección de Personal"
+      },
+      "hash": "f680a200641d86926c8a53a883990bbe0e3b7869",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100125",
+        "name": "Servicio de Relaciones Internacionales"
+      },
+      "ut": {
+        "alias": "Servicio de Relaciones Internacionales",
+        "code": "U00100125",
+        "name": "Servicio de Relaciones Internacionales"
+      },
+      "hash": "d8355f1d4bcc911c89db9ab1267cd4dd26d6825d",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100124",
+        "name": "Servicio de Registro y Archivo"
+      },
+      "ut": {
+        "alias": "Servicio de Registro y Archivo",
+        "code": "U00100124",
+        "name": "Servicio de Registro y Archivo"
+      },
+      "hash": "9c05ee30e7c6b3a8430bae0ffefa38743a6f4ece",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100123",
+        "name": "Servicio de Publicaciones"
+      },
+      "ut": {
+        "alias": "Servicio de Publicaciones",
+        "code": "U00100123",
+        "name": "Servicio de Publicaciones"
+      },
+      "hash": "b1062d9f999be77435722c905cd16bd9233d4435",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100122",
+        "name": "Servicio de Prevención"
+      },
+      "ut": {
+        "alias": "Servicio de Prevención",
+        "code": "U00100122",
+        "name": "Servicio de Prevención"
+      },
+      "hash": "346567f450a38043b4efa837ed1cecc41ada1c96",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100121",
+        "name": "Servei de Llengües"
+      },
+      "ut": {
+        "alias": "Servei de Llengües",
+        "code": "U00100121",
+        "name": "Servei de Llengües"
+      },
+      "hash": "58de21201ce55a329b3df51cfbfd41c89b7f7ee0",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100119",
+        "name": "Servicio de Informática"
+      },
+      "ut": {
+        "alias": "Servicio de Informática",
+        "code": "U00100119",
+        "name": "Servicio de Informática"
+      },
+      "hash": "27edef2b78a0b758a9366f5a3135f98e26bd56b3",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100118",
+        "name": "Servicio de Gestión de Personal"
+      },
+      "ut": {
+        "alias": "Servicio de Gestión de Personal",
+        "code": "U00100118",
+        "name": "Servicio de Gestión de Personal"
+      },
+      "hash": "0c2afd9250f748290215d998ed407bee5b103b05",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100116",
+        "name": "Servicio de Gestión Académica"
+      },
+      "ut": {
+        "alias": "Servicio de Gestión Académica",
+        "code": "U00100116",
+        "name": "Servicio de Gestión Académica"
+      },
+      "hash": "d545bc1919ac1ffd6dbccbea00aa71e466102e15",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100115",
+        "name": "Servicio de Deportes"
+      },
+      "ut": {
+        "alias": "Servicio de Deportes",
+        "code": "U00100115",
+        "name": "Servicio de Deportes"
+      },
+      "hash": "69a85d47b4c72e843fd894d07520bf9fe7588d9b",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "ut": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "hash": "a893d903411f36321aee504326d6ee40e60d6bf5",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100113",
+        "name": "Servicio de Estudiantes"
+      },
+      "ut": {
+        "alias": "Servicio de Estudiantes",
+        "code": "U00100113",
+        "name": "Servicio de Estudiantes"
+      },
+      "hash": "5bb3459608ed43ad9828abf8a4963bb4829c6d13",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Vicerrectorado de Formación Permanente y Lenguas",
+        "identifier": "Q0332001G",
+        "code": "U00100109",
+        "name": "Centro de Formación Permanente"
+      },
+      "ut": {
+        "alias": "Centro de Formación Permanente",
+        "code": "U00100109",
+        "name": "Centro de Formación Permanente"
+      },
+      "hash": "88fbda6b2d88da8e8826effb73576b3ed05659ed",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Vicerrectorado de Estudios y Calidad",
+        "identifier": "Q0332001G",
+        "code": "U00100108",
+        "name": "Escuela Internacional de Doctorado"
+      },
+      "ut": {
+        "alias": "Escuela Internacional de Doctorado",
+        "code": "U00100108",
+        "name": "Escuela Internacional de Doctorado"
+      },
+      "hash": "9c0064638a7bb7dd2e7296b54d8c47f66e76e200",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Ciencias Educación (ICE)",
+        "identifier": "Q0332001G",
+        "code": "U00100107",
+        "name": "Instituto Ciencias Educación (Ice)"
+      },
+      "ut": {
+        "alias": "Instituto Ciencias Educación (ICE)",
+        "code": "U00100107",
+        "name": "Instituto Ciencias Educación (Ice)"
+      },
+      "hash": "265001bf3f3a08d20595a079e77837fff92fafbd",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Univesitario de Física Aplicada a las Ciencias y laa Tecnologías (IUFACYT)",
+        "identifier": "Q0332001G",
+        "code": "U00100100",
+        "name": "Instituto Univesitario de Física Aplicada a las Ciencias y las Tecnologías"
+      },
+      "ut": {
+        "alias": "Instituto Univesitario de Física Aplicada a las Ciencias y laa Tecnologías (IUFACYT)",
+        "code": "U00100100",
+        "name": "Instituto Univesitario de Física Aplicada a las Ciencias y las Tecnologías"
+      },
+      "hash": "6061bb35e0c682984688398e449402ca43f5801f",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Síntesis Orgánica ",
+        "identifier": "Q0332001G",
+        "code": "U00100099",
+        "name": "Instituto Universitario de Síntesis Orgánica"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Síntesis Orgánica",
+        "code": "U00100099",
+        "name": "Instituto Universitario de Síntesis Orgánica"
+      },
+      "hash": "2d9ca7e56d23f32f2f82d397ad90287ce9944776",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Materiales ",
+        "identifier": "Q0332001G",
+        "code": "U00100098",
+        "name": "Instituto Universitario de Materiales"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Materiales",
+        "code": "U00100098",
+        "name": "Instituto Universitario de Materiales"
+      },
+      "hash": "faf3ff3bbcfb270a6a21e3c72f8fbe65c06bfb64",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Lenguas Modernas Aplicadas ",
+        "identifier": "Q0332001G",
+        "code": "U00100097",
+        "name": "Instituto Universitario de Lenguas Modernas Aplicadas"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Lenguas Modernas Aplicadas",
+        "code": "U00100097",
+        "name": "Instituto Universitario de Lenguas Modernas Aplicadas"
+      },
+      "hash": "aeeab8bd0ba1d5160147b3fd1113e1b4fe43dc21",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Investigaciones Turísticas ",
+        "identifier": "Q0332001G",
+        "code": "U00100096",
+        "name": "Instituto Universitario de Investigaciones Turísticas"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Investigaciones Turísticas",
+        "code": "U00100096",
+        "name": "Instituto Universitario de Investigaciones Turísticas"
+      },
+      "hash": "9e39078ac0c030b6da375fd63b74d4369fba5567",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Investigación Informática ",
+        "identifier": "Q0332001G",
+        "code": "U00100095",
+        "name": "Instituto Universitario de Investigación Informática"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Investigación Informática",
+        "code": "U00100095",
+        "name": "Instituto Universitario de Investigación Informática"
+      },
+      "hash": "8bc314c6c95e77754949d8ca897e12a6b2090933",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Investigación en Arqueología y Patrimonio Histórico ",
+        "identifier": "Q0332001G",
+        "code": "U00100094",
+        "name": "Instituto Universitario de Investigación en Arqueología y Patrimonio Histórico"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Investigación en Arqueología y Patrimonio Histórico",
+        "code": "U00100094",
+        "name": "Instituto Universitario de Investigación en Arqueología y Patrimonio Histórico"
+      },
+      "hash": "bcf522a6e7e8c2cba486ac9aefb0d6df256bba57",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Investigación de Estudios de Género ",
+        "identifier": "Q0332001G",
+        "code": "U00100093",
+        "name": "Instituto Universitario de Investigación de Estudios de Género"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Investigación de Estudios de Género",
+        "code": "U00100093",
+        "name": "Instituto Universitario de Investigación de Estudios de Género"
+      },
+      "hash": "e7454672ca8cea087ce45cb3db6a87cfc76c6d75",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Ingeniería de los Procesos Químicos ",
+        "identifier": "Q0332001G",
+        "code": "U00100092",
+        "name": "Instituto Universitario de Ingeniería de los Procesos Químicos"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Ingeniería de los Procesos Químicos",
+        "code": "U00100092",
+        "name": "Instituto Universitario de Ingeniería de los Procesos Químicos"
+      },
+      "hash": "42cef135a844fae3b78b167bc85ca5eecd1e96b5",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Electroquímica ",
+        "identifier": "Q0332001G",
+        "code": "U00100091",
+        "name": "Instituto Universitario de Electroquímica"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Electroquímica",
+        "code": "U00100091",
+        "name": "Instituto Universitario de Electroquímica"
+      },
+      "hash": "7c88b1954b8a39b42587a26242edd5696381789a",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario de Desarrollo Social y Paz ",
+        "identifier": "Q0332001G",
+        "code": "U00100090",
+        "name": "Instituto Universitario de Desarrollo Social y Paz"
+      },
+      "ut": {
+        "alias": "Instituto Universitario de Desarrollo Social y Paz",
+        "code": "U00100090",
+        "name": "Instituto Universitario de Desarrollo Social y Paz"
+      },
+      "hash": "4a72dcc0cbf90c1b86b72d3ba79343c27551f4c5",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Universitario Centro Iberoamericano de la Biodiversidad (CIBIO)",
+        "identifier": "Q0332001G",
+        "code": "U00100089",
+        "name": "Instituto Universitario Centro Iberoamericano de la Biodiversidad"
+      },
+      "ut": {
+        "alias": "Instituto Universitario Centro Iberoamericano de la Biodiversidad (CIBIO)",
+        "code": "U00100089",
+        "name": "Instituto Universitario Centro Iberoamericano de la Biodiversidad"
+      },
+      "hash": "59aa80b5e4f32a1fc4553789c7d9711b2cf9e88b",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Multidisciplinar para el Estudio del Medio Ramón Margalef ",
+        "identifier": "Q0332001G",
+        "code": "U00100088",
+        "name": "Instituto Multidisciplinar para el Estudio del Medio Ramón Margalef"
+      },
+      "ut": {
+        "alias": "Instituto Multidisciplinar para el Estudio del Medio Ramón Margalef",
+        "code": "U00100088",
+        "name": "Instituto Multidisciplinar para el Estudio del Medio Ramón Margalef"
+      },
+      "hash": "7056a64dd33b78a2a05a89d66548d4da00b137c7",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Interuniversitario de Geografía ",
+        "identifier": "Q0332001G",
+        "code": "U00100087",
+        "name": "Instituto Interuniversitario de Geografía"
+      },
+      "ut": {
+        "alias": "Instituto Interuniversitario de Geografía",
+        "code": "U00100087",
+        "name": "Instituto Interuniversitario de Geografía"
+      },
+      "hash": "855bf54a79ea08ca4d2424e5d7735565c886b315",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Interuniversitario de Filología Valenciana ",
+        "identifier": "Q0332001G",
+        "code": "U00100086",
+        "name": "Instituto Interuniversitario de Filología Valenciana"
+      },
+      "ut": {
+        "alias": "Instituto Interuniversitario de Filología Valenciana",
+        "code": "U00100086",
+        "name": "Instituto Interuniversitario de Filología Valenciana"
+      },
+      "hash": "861975d7f6f589d3682ac4cb9d5362b4bddc2f30",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto Interuniversitario de Economía Internacional ",
+        "identifier": "Q0332001G",
+        "code": "U00100085",
+        "name": "Instituto Interuniversitario de Economía Internacional"
+      },
+      "ut": {
+        "alias": "Instituto Interuniversitario de Economía Internacional",
+        "code": "U00100085",
+        "name": "Instituto Interuniversitario de Economía Internacional"
+      },
+      "hash": "5d6aa03b9e623604a517fdc434cf00b84366c087",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Instituto del Agua y Ciencias Ambientales ",
+        "identifier": "Q0332001G",
+        "code": "U00100084",
+        "name": "Instituto del Agua y Ciencias Ambientales"
+      },
+      "ut": {
+        "alias": "Instituto del Agua y Ciencias Ambientales",
+        "code": "U00100084",
+        "name": "Instituto del Agua y Ciencias Ambientales"
+      },
+      "hash": "a0e514dac5fd4cb6ae626909bdc3959b9ee07478",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Traducción e Interpretación ",
+        "identifier": "Q0332001G",
+        "code": "U00100083",
+        "name": "Departamento de Traducción e Interpretación"
+      },
+      "ut": {
+        "alias": "Departamento de Traducción e Interpretación",
+        "code": "U00100083",
+        "name": "Departamento de Traducción e Interpretación"
+      },
+      "hash": "174a770d1c73ef53de82e36583fb6dd09c27f7d8",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Trabajo Social y Servicios Sociales ",
+        "identifier": "Q0332001G",
+        "code": "U00100082",
+        "name": "Departamento de Trabajo Social y Servicios Sociales"
+      },
+      "ut": {
+        "alias": "Departamento de Trabajo Social y Servicios Sociales",
+        "code": "U00100082",
+        "name": "Departamento de Trabajo Social y Servicios Sociales"
+      },
+      "hash": "31ed49b4841190eb9963892d8183f13d473a9e5d",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Tecnología Informática y Computación ",
+        "identifier": "Q0332001G",
+        "code": "U00100081",
+        "name": "Departamento de Tecnología Informática y Computación"
+      },
+      "ut": {
+        "alias": "Departamento de Tecnología Informática y Computación",
+        "code": "U00100081",
+        "name": "Departamento de Tecnología Informática y Computación"
+      },
+      "hash": "43cbf18ce8ca89278bd10bb2ad81a008d940e0cb",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Sociología II ",
+        "identifier": "Q0332001G",
+        "code": "U00100080",
+        "name": "Departamento de Sociología II"
+      },
+      "ut": {
+        "alias": "Departamento de Sociología II",
+        "code": "U00100080",
+        "name": "Departamento de Sociología II"
+      },
+      "hash": "98de4c82a6ec605a9f8d5df8e8db6686ab8a49a3",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Sociología I",
+        "identifier": "Q0332001G",
+        "code": "U00100079",
+        "name": "Departamento de Sociología I"
+      },
+      "ut": {
+        "alias": "Departamento de Sociología I",
+        "code": "U00100079",
+        "name": "Departamento de Sociología I"
+      },
+      "hash": "f2f20e1a4397002901d66fa6354d84cd6a63062e",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Química Orgánica ",
+        "identifier": "Q0332001G",
+        "code": "U00100078",
+        "name": "Departamento de Química Orgánica"
+      },
+      "ut": {
+        "alias": "Departamento de Química Orgánica",
+        "code": "U00100078",
+        "name": "Departamento de Química Orgánica"
+      },
+      "hash": "f9eb2d245db8de1ab1eabfc2ce1e68d947e30d1f",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Química Inorgánica ",
+        "identifier": "Q0332001G",
+        "code": "U00100077",
+        "name": "Departamento de Química Inorgánica"
+      },
+      "ut": {
+        "alias": "Departamento de Química Inorgánica",
+        "code": "U00100077",
+        "name": "Departamento de Química Inorgánica"
+      },
+      "hash": "a26915849cc9987dbe5517d6ca0c48a3e49131e2",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Química Física ",
+        "identifier": "Q0332001G",
+        "code": "U00100076",
+        "name": "Departamento de Química Física"
+      },
+      "ut": {
+        "alias": "Departamento de Química Física",
+        "code": "U00100076",
+        "name": "Departamento de Química Física"
+      },
+      "hash": "30fa4f48c795a365ac04b4ab8d09284dde855003",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Química Analítica, Nutrición y Bromatología ",
+        "identifier": "Q0332001G",
+        "code": "U00100075",
+        "name": "Departamento de Química Analítica, Nutrición y Bromatología"
+      },
+      "ut": {
+        "alias": "Departamento de Química Analítica, Nutrición y Bromatología",
+        "code": "U00100075",
+        "name": "Departamento de Química Analítica, Nutrición y Bromatología"
+      },
+      "hash": "a3a4766acf65973180cca6b0d4cd03015a4f520b",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Psicología Evolutiva y Didáctica ",
+        "identifier": "Q0332001G",
+        "code": "U00100074",
+        "name": "Departamento de Psicología Evolutiva y Didáctica"
+      },
+      "ut": {
+        "alias": "Departamento de Psicología Evolutiva y Didáctica",
+        "code": "U00100074",
+        "name": "Departamento de Psicología Evolutiva y Didáctica"
+      },
+      "hash": "56a2116bcaf28d54d717d1a776064c7a292c8f32",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Psicología de la Salud ",
+        "identifier": "Q0332001G",
+        "code": "U00100073",
+        "name": "Departamento de Psicología de la Salud"
+      },
+      "ut": {
+        "alias": "Departamento de Psicología de la Salud",
+        "code": "U00100073",
+        "name": "Departamento de Psicología de la Salud"
+      },
+      "hash": "c3b3c5e7dcb8bcd27be0ab03f8ac9af88ce22c20",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Prehistoria, Arqueología, Historia Antigua, Filología Griega y Filología Latina ",
+        "identifier": "Q0332001G",
+        "code": "U00100072",
+        "name": "Departamento de Prehistoria, Arqueología, Historia Antigua, Filología Griega y Filología Latina"
+      },
+      "ut": {
+        "alias": "Departamento de Prehistoria, Arqueología, Historia Antigua, Filología Griega y Filología Latina",
+        "code": "U00100072",
+        "name": "Departamento de Prehistoria, Arqueología, Historia Antigua, Filología Griega y Filología Latina"
+      },
+      "hash": "5381bb68aca2b8bd2aa5104264d8588da4a1d767",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Organización de Empresas ",
+        "identifier": "Q0332001G",
+        "code": "U00100071",
+        "name": "Departamento de Organización de Empresas"
+      },
+      "ut": {
+        "alias": "Departamento de Organización de Empresas",
+        "code": "U00100071",
+        "name": "Departamento de Organización de Empresas"
+      },
+      "hash": "92cd92863150650f6753c20ed0702d486ad1d8cc",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Óptica, Farmacología y Anatomía",
+        "identifier": "Q0332001G",
+        "code": "U00100070",
+        "name": "Departamento de Óptica, Farmacología y Anatomía"
+      },
+      "ut": {
+        "alias": "Departamento de Óptica, Farmacología y Anatomía",
+        "code": "U00100070",
+        "name": "Departamento de Óptica, Farmacología y Anatomía"
+      },
+      "hash": "333c0432f611fa3bcb69177393bb5215ccbd9140",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Matemática Aplicada",
+        "identifier": "Q0332001G",
+        "code": "U00100068",
+        "name": "Departamento de Matemática Aplicada e Ingeniería Aeroespacial"
+      },
+      "ut": {
+        "alias": "Departamento de Matemática Aplicada",
+        "code": "U00100068",
+        "name": "Departamento de Matemática Aplicada e Ingeniería Aeroespacial"
+      },
+      "hash": "4fa5c99072b866112893681a3d940bbab3a50b03",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Marketing",
+        "identifier": "Q0332001G",
+        "code": "U00100067",
+        "name": "Departamento de Marketing"
+      },
+      "ut": {
+        "alias": "Departamento de Marketing",
+        "code": "U00100067",
+        "name": "Departamento de Marketing"
+      },
+      "hash": "87c5fa03cae95b0ae7f250a06a917f9bc242ac5a",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Lenguajes y Sistemas Informáticos",
+        "identifier": "Q0332001G",
+        "code": "U00100066",
+        "name": "Departamento de Lenguajes y Sistemas Informáticos"
+      },
+      "ut": {
+        "alias": "Departamento de Lenguajes y Sistemas Informáticos",
+        "code": "U00100066",
+        "name": "Departamento de Lenguajes y Sistemas Informáticos"
+      },
+      "hash": "5045490383b89cd16868a7c11dda7ffd1bb5fc84",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Innovación y Formación Didáctica",
+        "identifier": "Q0332001G",
+        "code": "U00100065",
+        "name": "Departamento de Innovación y Formación Didáctica"
+      },
+      "ut": {
+        "alias": "Departamento de Innovación y Formación Didáctica",
+        "code": "U00100065",
+        "name": "Departamento de Innovación y Formación Didáctica"
+      },
+      "hash": "4d86cfaba031fb260cd8e287d1fb08f1e1606d37",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Ingeniería Química",
+        "identifier": "Q0332001G",
+        "code": "U00100064",
+        "name": "Departamento de Ingeniería Química"
+      },
+      "ut": {
+        "alias": "Departamento de Ingeniería Química",
+        "code": "U00100064",
+        "name": "Departamento de Ingeniería Química"
+      },
+      "hash": "eb85332c3963ae3ce3af4d528395001e1f81b425",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Ingeniería Civil",
+        "identifier": "Q0332001G",
+        "code": "U00100063",
+        "name": "Departamento de Ingeniería Civil"
+      },
+      "ut": {
+        "alias": "Departamento de Ingeniería Civil",
+        "code": "U00100063",
+        "name": "Departamento de Ingeniería Civil"
+      },
+      "hash": "800ce2385d1d5de8c2b050a3a8c5c29c2c6bb952",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Humanidades Contemporáneas",
+        "identifier": "Q0332001G",
+        "code": "U00100062",
+        "name": "Departamento de Humanidades Contemporáneas"
+      },
+      "ut": {
+        "alias": "Departamento de Humanidades Contemporáneas",
+        "code": "U00100062",
+        "name": "Departamento de Humanidades Contemporáneas"
+      },
+      "hash": "3ad802b0a650b2bce3b4f9b45dffd99c60276dac",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Historia Medieval, Historia Moderna y Ciencias y Técnicas Hisotiográficas",
+        "identifier": "Q0332001G",
+        "code": "U00100061",
+        "name": "Departamento de Historia Medieval, Historia Moderna y Ciencias y Técnicas Historiográficas"
+      },
+      "ut": {
+        "alias": "Departamento de Historia Medieval, Historia Moderna y Ciencias y Técnicas Hisotiográficas",
+        "code": "U00100061",
+        "name": "Departamento de Historia Medieval, Historia Moderna y Ciencias y Técnicas Historiográficas"
+      },
+      "hash": "df14e6f23f264cc3d1de859b3e74f29151a65c77",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Geografía Humana",
+        "identifier": "Q0332001G",
+        "code": "U00100060",
+        "name": "Departamento de Geografía Humana"
+      },
+      "ut": {
+        "alias": "Departamento de Geografía Humana",
+        "code": "U00100060",
+        "name": "Departamento de Geografía Humana"
+      },
+      "hash": "588c596fbcfbe29dbd2254be1ee3dd03b86b44bc",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Fundamentos del Análisis Económico",
+        "identifier": "Q0332001G",
+        "code": "U00100059",
+        "name": "Departamento de Fundamentos del Análisis Económico"
+      },
+      "ut": {
+        "alias": "Departamento de Fundamentos del Análisis Económico",
+        "code": "U00100059",
+        "name": "Departamento de Fundamentos del Análisis Económico"
+      },
+      "hash": "f68a937540e134a99742ce10dc48be6ac51cec2b",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Fisiología, Genética y Microbiología",
+        "identifier": "Q0332001G",
+        "code": "U00100058",
+        "name": "Departamento de Fisiología, Genética y Microbiología"
+      },
+      "ut": {
+        "alias": "Departamento de Fisiología, Genética y Microbiología",
+        "code": "U00100058",
+        "name": "Departamento de Fisiología, Genética y Microbiología"
+      },
+      "hash": "b8832c06c318a5a8977dc3fbf9b6d515c4b52416",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Física, Ingeniería de Sistemas y Teoría de la Señal",
+        "identifier": "Q0332001G",
+        "code": "U00100057",
+        "name": "Departamento de Física, Ingeniería de Sistemas y Teoría de la Señal"
+      },
+      "ut": {
+        "alias": "Departamento de Física, Ingeniería de Sistemas y Teoría de la Señal",
+        "code": "U00100057",
+        "name": "Departamento de Física, Ingeniería de Sistemas y Teoría de la Señal"
+      },
+      "hash": "12e02c9eb7479701fa6aeb532cf1844f0eb99c1b",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Física Aplicada",
+        "identifier": "Q0332001G",
+        "code": "U00100056",
+        "name": "Departamento de Física"
+      },
+      "ut": {
+        "alias": "Departamento de Física Aplicada",
+        "code": "U00100056",
+        "name": "Departamento de Física"
+      },
+      "hash": "02f8c8e8ac2cf1a53edcd160fb24a3ebf4a43b4d",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Filosofía del Derecho y Derecho Internacional Privado",
+        "identifier": "Q0332001G",
+        "code": "U00100055",
+        "name": "Departamento de Filosofía del Derecho y Derecho Internacional Privado"
+      },
+      "ut": {
+        "alias": "Departamento de Filosofía del Derecho y Derecho Internacional Privado",
+        "code": "U00100055",
+        "name": "Departamento de Filosofía del Derecho y Derecho Internacional Privado"
+      },
+      "hash": "ab4210074e236c786f6799c00dbf98604116aca2",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Filologías Integradas",
+        "identifier": "Q0332001G",
+        "code": "U00100054",
+        "name": "Departamento de Filologías Integradas"
+      },
+      "ut": {
+        "alias": "Departamento de Filologías Integradas",
+        "code": "U00100054",
+        "name": "Departamento de Filologías Integradas"
+      },
+      "hash": "db08e34753b9f98eff352c6d8c4fd8990072deb9",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Filología Inglesa",
+        "identifier": "Q0332001G",
+        "code": "U00100053",
+        "name": "Departamento de Filología Inglesa"
+      },
+      "ut": {
+        "alias": "Departamento de Filología Inglesa",
+        "code": "U00100053",
+        "name": "Departamento de Filología Inglesa"
+      },
+      "hash": "9dd564c7e4392691b053f63d13254d61e66d5198",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Filología Española, Lingüística General y Teoría de la Literatura",
+        "identifier": "Q0332001G",
+        "code": "U00100052",
+        "name": "Departamento de Filología Española, Lingüística General y Teoría de la Literatura"
+      },
+      "ut": {
+        "alias": "Departamento de Filología Española, Lingüística General y Teoría de la Literatura",
+        "code": "U00100052",
+        "name": "Departamento de Filología Española, Lingüística General y Teoría de la Literatura"
+      },
+      "hash": "3317bd5c6433afc5dc16df64ff7afc2ad55cf361",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Filología Catalana",
+        "identifier": "Q0332001G",
+        "code": "U00100051",
+        "name": "Departamento de Filología Catalana"
+      },
+      "ut": {
+        "alias": "Departamento de Filología Catalana",
+        "code": "U00100051",
+        "name": "Departamento de Filología Catalana"
+      },
+      "hash": "642d7137d176c7697b7e42e4621535b6e70ed8f5",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Expresión Gráfica y Cartografía",
+        "identifier": "Q0332001G",
+        "code": "U00100050",
+        "name": "Departamento de Expresión Gráfica, Composición y Proyectos"
+      },
+      "ut": {
+        "alias": "Departamento de Expresión Gráfica y Cartografía",
+        "code": "U00100050",
+        "name": "Departamento de Expresión Gráfica, Composición y Proyectos"
+      },
+      "hash": "3fb761d11106decda7905226686dd402f8f5af3f",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Estudios Jurídicos del Estado",
+        "identifier": "Q0332001G",
+        "code": "U00100049",
+        "name": "Departamento de Estudios Jurídicos del Estado"
+      },
+      "ut": {
+        "alias": "Departamento de Estudios Jurídicos del Estado",
+        "code": "U00100049",
+        "name": "Departamento de Estudios Jurídicos del Estado"
+      },
+      "hash": "9548e33a598687ef242d19add182aa99b1646da6",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Enfermería Comunitaria, Medicina Preventiva y Salud Pública e Historia de la Ciencia",
+        "identifier": "Q0332001G",
+        "code": "U00100047",
+        "name": "Departamento de Enfermería Comunitaria, Medicina Preventiva y Salud Pública e Historia de la Ciencia"
+      },
+      "ut": {
+        "alias": "Departamento de Enfermería Comunitaria, Medicina Preventiva y Salud Pública e Historia de la Ciencia",
+        "code": "U00100047",
+        "name": "Departamento de Enfermería Comunitaria, Medicina Preventiva y Salud Pública e Historia de la Ciencia"
+      },
+      "hash": "c0e43a4428fa4b4c9f78ad803aa158d697eaa9ba",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Enfermería",
+        "identifier": "Q0332001G",
+        "code": "U00100046",
+        "name": "Departamento de Enfermería"
+      },
+      "ut": {
+        "alias": "Departamento de Enfermería",
+        "code": "U00100046",
+        "name": "Departamento de Enfermería"
+      },
+      "hash": "be6eb18081a83887e65f69192ce6e1d431b1ed39",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Edificación y Urbanismo",
+        "identifier": "Q0332001G",
+        "code": "U00100045",
+        "name": "Departamento de Edificación y Urbanismo"
+      },
+      "ut": {
+        "alias": "Departamento de Edificación y Urbanismo",
+        "code": "U00100045",
+        "name": "Departamento de Edificación y Urbanismo"
+      },
+      "hash": "86374a310d3684874622d47a7706fbf6cbf60ba4",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Economía Financiera y Contabilidad",
+        "identifier": "Q0332001G",
+        "code": "U00100044",
+        "name": "Departamento de Economía Financiera y Contabilidad"
+      },
+      "ut": {
+        "alias": "Departamento de Economía Financiera y Contabilidad",
+        "code": "U00100044",
+        "name": "Departamento de Economía Financiera y Contabilidad"
+      },
+      "hash": "0018c1f9d2edcb8c17b6bf6b3e811ed0e0c6eb05",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Economía Aplicada y Política Económica",
+        "identifier": "Q0332001G",
+        "code": "U00100043",
+        "name": "Departamento de Economía Aplicada y Política Económica"
+      },
+      "ut": {
+        "alias": "Departamento de Economía Aplicada y Política Económica",
+        "code": "U00100043",
+        "name": "Departamento de Economía Aplicada y Política Económica"
+      },
+      "hash": "5affbb22f1673905092eba933521d0a975a7ae2b",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Ecología",
+        "identifier": "Q0332001G",
+        "code": "U00100042",
+        "name": "Departamento de Ecología"
+      },
+      "ut": {
+        "alias": "Departamento de Ecología",
+        "code": "U00100042",
+        "name": "Departamento de Ecología"
+      },
+      "hash": "f4937fdf474ebb01687fedf8b9ac08d29d15d194",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Disciplinas Económicas y Financieras",
+        "identifier": "Q0332001G",
+        "code": "U00100041",
+        "name": "Departamento de Disciplinas Económicas y Financieras"
+      },
+      "ut": {
+        "alias": "Departamento de Disciplinas Económicas y Financieras",
+        "code": "U00100041",
+        "name": "Departamento de Disciplinas Económicas y Financieras"
+      },
+      "hash": "cee9283f0dba65bfae68d0dd41cf38e8414eaaa6",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Didáctica General y Didácticas Específicas",
+        "identifier": "Q0332001G",
+        "code": "U00100040",
+        "name": "Departamento de Didáctica General y Didácticas Específicas"
+      },
+      "ut": {
+        "alias": "Departamento de Didáctica General y Didácticas Específicas",
+        "code": "U00100040",
+        "name": "Departamento de Didáctica General y Didácticas Específicas"
+      },
+      "hash": "f97676786ef4f8252f941e1f93c3dcac50226016",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Derecho Mercantil y Derecho Procesal",
+        "identifier": "Q0332001G",
+        "code": "U00100039",
+        "name": "Departamento de Derecho Mercantil y Derecho Procesal"
+      },
+      "ut": {
+        "alias": "Departamento de Derecho Mercantil y Derecho Procesal",
+        "code": "U00100039",
+        "name": "Departamento de Derecho Mercantil y Derecho Procesal"
+      },
+      "hash": "d08c689978e7cee2253af3586411e216f5938af3",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Derecho Internacional Público y Penal",
+        "identifier": "Q0332001G",
+        "code": "U00100038",
+        "name": "Departamento de Derecho Internacional Público y Derecho Penal"
+      },
+      "ut": {
+        "alias": "Departamento de Derecho Internacional Público y Penal",
+        "code": "U00100038",
+        "name": "Departamento de Derecho Internacional Público y Derecho Penal"
+      },
+      "hash": "09e1a61c0ba162dcd764b84cdc71fd540e8c23be",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Derecho del Trabajo y de la Seguridad Social",
+        "identifier": "Q0332001G",
+        "code": "U00100037",
+        "name": "Departamento de Derecho del Trabajo y de la Seguridad Social"
+      },
+      "ut": {
+        "alias": "Departamento de Derecho del Trabajo y de la Seguridad Social",
+        "code": "U00100037",
+        "name": "Departamento de Derecho del Trabajo y de la Seguridad Social"
+      },
+      "hash": "cfeab943c637d52aec8cfae0b0c1e22ccd64f149",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Derecho Civil",
+        "identifier": "Q0332001G",
+        "code": "U00100036",
+        "name": "Departamento de Derecho Civil"
+      },
+      "ut": {
+        "alias": "Departamento de Derecho Civil",
+        "code": "U00100036",
+        "name": "Departamento de Derecho Civil"
+      },
+      "hash": "fe14a9d41765e18c852a960ac0123780a9a64eaf",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Construcciones Arquitectónicas",
+        "identifier": "Q0332001G",
+        "code": "U00100035",
+        "name": "Departamento de Construcciones Arquitectónicas"
+      },
+      "ut": {
+        "alias": "Departamento de Construcciones Arquitectónicas",
+        "code": "U00100035",
+        "name": "Departamento de Construcciones Arquitectónicas"
+      },
+      "hash": "b94fdfd265c35f4e53c4896bd74e1aaf301afb4a",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Comunicación y Psicología Social",
+        "identifier": "Q0332001G",
+        "code": "U00100034",
+        "name": "Departamento de Comunicación y Psicología Social"
+      },
+      "ut": {
+        "alias": "Departamento de Comunicación y Psicología Social",
+        "code": "U00100034",
+        "name": "Departamento de Comunicación y Psicología Social"
+      },
+      "hash": "77b182016421f869d6e7513ddb4109befff5a462",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Ciencias Histórico Jurídicas",
+        "identifier": "Q0332001G",
+        "code": "U00100033",
+        "name": "Departamento de Ciencias Histórico Jurídicas"
+      },
+      "ut": {
+        "alias": "Departamento de Ciencias Histórico Jurídicas",
+        "code": "U00100033",
+        "name": "Departamento de Ciencias Histórico Jurídicas"
+      },
+      "hash": "8c6754a2a31e72c5d4cb08ef248dffc3797eee07",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Ciencias del Mar y Biología Aplicada",
+        "identifier": "Q0332001G",
+        "code": "U00100032",
+        "name": "Departamento de Ciencias del Mar y Biología Aplicada"
+      },
+      "ut": {
+        "alias": "Departamento de Ciencias del Mar y Biología Aplicada",
+        "code": "U00100032",
+        "name": "Departamento de Ciencias del Mar y Biología Aplicada"
+      },
+      "hash": "163834569beaf3d7a29ffb9e7b6eb20b5dea72d4",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Ciencias de la Tierra y del Medio Ambiente",
+        "identifier": "Q0332001G",
+        "code": "U00100031",
+        "name": "Departamento de Ciencias de la Tierra y del  Medio Ambiente"
+      },
+      "ut": {
+        "alias": "Departamento de Ciencias de la Tierra y del Medio Ambiente",
+        "code": "U00100031",
+        "name": "Departamento de Ciencias de la Tierra y del  Medio Ambiente"
+      },
+      "hash": "2086b171f52ee55afc53e8a64ed9ae8d865d51c0",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Ciencias Ambientales",
+        "identifier": "Q0332001G",
+        "code": "U00100030",
+        "name": "Departamento de Ciencias Ambientales y Recursos Naturales"
+      },
+      "ut": {
+        "alias": "Departamento de Ciencias Ambientales",
+        "code": "U00100030",
+        "name": "Departamento de Ciencias Ambientales y Recursos Naturales"
+      },
+      "hash": "60d35f88b8a8a29676a4063230ee3a45be921a76",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Ciencia de la Computación e Inteligencia Artificial",
+        "identifier": "Q0332001G",
+        "code": "U00100029",
+        "name": "Departamento de Ciencia de la Computación e Inteligencia Artificial"
+      },
+      "ut": {
+        "alias": "Departamento de Ciencia de la Computación e Inteligencia Artificial",
+        "code": "U00100029",
+        "name": "Departamento de Ciencia de la Computación e Inteligencia Artificial"
+      },
+      "hash": "d974c771831a7bdd2a4d07e3369ae95b0ae67245",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Biotecnología",
+        "identifier": "Q0332001G",
+        "code": "U00100028",
+        "name": "Departamento de Biotecnología"
+      },
+      "ut": {
+        "alias": "Departamento de Biotecnología",
+        "code": "U00100028",
+        "name": "Departamento de Biotecnología"
+      },
+      "hash": "db4bffb41c9b1e9335f24cf04bc9b3a080844d99",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Análisis Geográfico Regional y Geografía Física",
+        "identifier": "Q0332001G",
+        "code": "U00100026",
+        "name": "Departamento de Análisis Geográfico Regional y Geografía Física"
+      },
+      "ut": {
+        "alias": "Departamento de Análisis Geográfico Regional y Geografía Física",
+        "code": "U00100026",
+        "name": "Departamento de Análisis Geográfico Regional y Geografía Física"
+      },
+      "hash": "af7bed166f3a7f06708744331885ecc2de2d61b2",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Análisis Económico Aplicado",
+        "identifier": "Q0332001G",
+        "code": "U00100025",
+        "name": "Departamento de Análisis Económico Aplicado"
+      },
+      "ut": {
+        "alias": "Departamento de Análisis Económico Aplicado",
+        "code": "U00100025",
+        "name": "Departamento de Análisis Económico Aplicado"
+      },
+      "hash": "06826432889cc1a35184fb530b364d0d9485ce74",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Departamento de Bioquímica y Biología Molecular y Edafología y Química Agrícola",
+        "identifier": "Q0332001G",
+        "code": "U00100024",
+        "name": "Departamento de Bioquímica y Biología Molecular y Edafología y Química Agrícola"
+      },
+      "ut": {
+        "alias": "Departamento de Bioquímica y Biología Molecular y Edafología y Química Agrícola",
+        "code": "U00100024",
+        "name": "Departamento de Bioquímica y Biología Molecular y Edafología y Química Agrícola"
+      },
+      "hash": "e03b2596ad7f03af343c3fd852e78f34baa5e301",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Facultad de Filosofía y Letras ",
+        "identifier": "Q0332001G",
+        "code": "U00100023",
+        "name": "Facultad de Filosofía y Letras"
+      },
+      "ut": {
+        "alias": "Facultad de Filosofía y Letras",
+        "code": "U00100023",
+        "name": "Facultad de Filosofía y Letras"
+      },
+      "hash": "7c4b1ed4a984542954a8fcdc9222c6b53d27c808",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Facultad de Educación ",
+        "identifier": "Q0332001G",
+        "code": "U00100022",
+        "name": "Facultad de Educación"
+      },
+      "ut": {
+        "alias": "Facultad de Educación",
+        "code": "U00100022",
+        "name": "Facultad de Educación"
+      },
+      "hash": "2b79078ef5473a94a36fa77740708ecdaf9f9d19",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Facultad de Derecho ",
+        "identifier": "Q0332001G",
+        "code": "U00100021",
+        "name": "Facultad de Derecho"
+      },
+      "ut": {
+        "alias": "Facultad de Derecho",
+        "code": "U00100021",
+        "name": "Facultad de Derecho"
+      },
+      "hash": "f9721af3d233b4ff169cc0694cf492eaf4d93f8e",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Facultad de Ciencias Económicas y Empresariales ",
+        "identifier": "Q0332001G",
+        "code": "U00100020",
+        "name": "Facultad de Ciencias Económicas y Empresariales"
+      },
+      "ut": {
+        "alias": "Facultad de Ciencias Económicas y Empresariales",
+        "code": "U00100020",
+        "name": "Facultad de Ciencias Económicas y Empresariales"
+      },
+      "hash": "1707ea1ac5b1998351729fb1790a6c53b1297082",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Facultad de Ciencias de la Salud ",
+        "identifier": "Q0332001G",
+        "code": "U00100019",
+        "name": "Facultad de Ciencias de la Salud"
+      },
+      "ut": {
+        "alias": "Facultad de Ciencias de la Salud",
+        "code": "U00100019",
+        "name": "Facultad de Ciencias de la Salud"
+      },
+      "hash": "d4d664f5842601146472134253261daa50afaea5",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Facultad de Ciencias ",
+        "identifier": "Q0332001G",
+        "code": "U00100018",
+        "name": "Facultad de Ciencias"
+      },
+      "ut": {
+        "alias": "Facultad de Ciencias",
+        "code": "U00100018",
+        "name": "Facultad de Ciencias"
+      },
+      "hash": "c339ca3c97c2d5c4aca5d15753fc12185afb5777",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Escuela Politécnica Superior ",
+        "identifier": "Q0332001G",
+        "code": "U00100017",
+        "name": "Escuela Politécnica Superior"
+      },
+      "ut": {
+        "alias": "Escuela Politécnica Superior",
+        "code": "U00100017",
+        "name": "Escuela Politécnica Superior"
+      },
+      "hash": "db732076d7090c6fd6ec1e1e5b3b0622099a7c41",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Consejo de Alumnos",
+        "identifier": "Q0332001G",
+        "code": "U00100016",
+        "name": "Consejo de Estudiantes"
+      },
+      "ut": {
+        "alias": "Consejo de Alumnos",
+        "code": "U00100016",
+        "name": "Consejo de Estudiantes"
+      },
+      "hash": "50c96fecacd511551399c1599287c2bafad0c673",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Oficina Defensor Universitario",
+        "identifier": "Q0332001G",
+        "code": "U00100014",
+        "name": "Oficina Defensor Universitario"
+      },
+      "ut": {
+        "alias": "Oficina Defensor Universitario",
+        "code": "U00100014",
+        "name": "Oficina Defensor Universitario"
+      },
+      "hash": "4d692a747cfc3107502de83db1e8f1ca77f59a49",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Consejo Social",
+        "identifier": "Q0332001G",
+        "code": "U00100013",
+        "name": "Consejo Social"
+      },
+      "ut": {
+        "alias": "Consejo Social",
+        "code": "U00100013",
+        "name": "Consejo Social"
+      },
+      "hash": "e642c5f23e4a0456a4c2db75c5cb31849a26b8b8",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Vicerrectorado de Ordenación Académica y Profesorado",
+        "identifier": "Q0332001G",
+        "code": "U00100009",
+        "name": "Vicerrectorado de Ordenación Académica y Profesorado"
+      },
+      "ut": {
+        "alias": "Vicerrectorado de Ordenación Académica y Profesorado",
+        "code": "U00100009",
+        "name": "Vicerrectorado de Ordenación Académica y Profesorado"
+      },
+      "hash": "2d095146bd7b38a6ed4065abac29417d55be99e0",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Gerencia",
+        "identifier": "Q0332001G",
+        "code": "U00100015",
+        "name": "Gerencia"
+      },
+      "ut": {
+        "alias": "Gerencia",
+        "code": "U00100015",
+        "name": "Gerencia"
+      },
+      "hash": "5925ca0f9626fd8115e1530163846d7e866b5f81",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    },
+    {
+      "oc": {
+        "alias": "Servicio de Gestión Económica",
+        "code": "U00100114",
+        "name": "Servicio de Gestión Económica"
+      },
+      "og": {
+        "alias": "Oficina de la  Rectora",
+        "identifier": "Q0332001G",
+        "code": "U00100002",
+        "name": "Oficina de la Rectora"
+      },
+      "ut": {
+        "alias": "Oficina de la  Rectora",
+        "code": "U00100002",
+        "name": "Oficina de la Rectora"
+      },
+      "hash": "fa7b14bf8b6560eabf720cb79ffcb2bddaf2d482",
+      "active": true,
+      "administration": {
+        "code": "U00100001",
+        "name": "Universidad de Alicante"
+      }
+    }
+  ],
+  "count": 203,
+  "total": 5203,
+  "limit": 1000,
+  "page": 6
+}
