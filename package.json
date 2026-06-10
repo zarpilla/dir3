@@ -1,15 +1,21 @@
 {
   "name": "dir3",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "DIR3 API - Search Spanish administrative relations by NIF",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "fetch": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["dir3", "face", "api", "nif", "administrative"],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.17.0"
+    "axios": "^1.17.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
   }
 }

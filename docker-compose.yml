@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  dir3-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: dir3-api:latest
+    container_name: dir3-api
+    restart: unless-stopped
+    ports:
+      - "${PORT:-3000}:3000"
+    environment:
+      - PORT=3000
+      - API_TOKENS=${API_TOKENS}
+    env_file:
+      - .env
+    healthcheck:
+      test: ["CMD", "node", "-e", "require('http').get('http://localhost:3000/api/health', (r) => { process.exit(r.statusCode === 200 ? 0 : 1); }).on('error', () => process.exit(1));"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+    networks:
+      - dir3-network
+
+networks:
+  dir3-network:
+    driver: bridge
